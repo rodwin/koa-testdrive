@@ -24,7 +24,11 @@ coverage
 .lock-wscript
 
 # Compiled binary addons (http://nodejs.org/api/addons.html)
+<<<<<<< HEAD
 build
+=======
+build/Release
+>>>>>>> e57387035e1c1a07a0e1fca3bdab3282882e002e
 
 # Dependency directories
 node_modules
@@ -34,4 +38,8 @@ jspm_packages
 .npm
 
 # Optional REPL history
+<<<<<<< HEAD
 .node_repl_history
+=======
+.node_repl_history
+>>>>>>> e57387035e1c1a07a0e1fca3bdab3282882e002e
